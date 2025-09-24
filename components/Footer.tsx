@@ -20,7 +20,7 @@ const Footer = () => {
               nakliye hizmetlerimizle daima yanınızdayız.
             </p>
         <div className="d-flex justify-content-center justify-content-md-start gap-3 mt-3">
-        <Link href={process.env.NEXT_PUBLIC_INSTAGRAM_URL || '#'} target="_blank" rel="noopener noreferrer" className="text-white fs-4">
+        <Link href="https://www.instagram.com/mersinarslannakliyat?igsh=dXZxN3Vjczh6Zjlm" target="_blank" rel="noopener noreferrer" className="text-white fs-4">
     <FaInstagram />
   </Link>        
   <Link href={process.env.NEXT_PUBLIC_FACEBOOK_URL || '#'} target="_blank" rel="noopener noreferrer" className="text-white fs-4">
